@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Insite Latin America](https://insite-la.com/en/index.html)
 
-- 🌱 Currently working with [TypeScript]([https://react.dev/](https://www.typescriptlang.org/)), [React](https://react.dev/) and [Next](https://nextjs.org/)
+- 🌱 Currently working with [TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/) and [Next](https://nextjs.org/)
 
 - ⚡ Find me on [LinkedIn](https://www.linkedin.com/in/sosamauro/) or [Twitter](https://twitter.com/maurososaa_)
 
